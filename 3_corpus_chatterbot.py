@@ -1,7 +1,6 @@
 from chatterbot import ChatBot
 from chatterbot.trainers import ChatterBotCorpusTrainer
 
-
 def main():
     chatbot = ChatBot('Chat AI')
     trainer = ChatterBotCorpusTrainer(chatbot)
