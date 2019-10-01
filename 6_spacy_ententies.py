@@ -1,3 +1,6 @@
+__author__ = "Otacilio Maia"
+__version__ = "1.0.0"
+
 import spacy
 
 nlp = spacy.load('pt')

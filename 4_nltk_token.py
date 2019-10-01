@@ -1,3 +1,6 @@
+__author__ = "Otacilio Maia"
+__version__ = "1.0.0"
+
 import nltk
 
 sentence = "O S.E.C é um evento arretado. Valeu pessoal!"
